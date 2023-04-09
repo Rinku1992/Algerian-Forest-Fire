@@ -3,7 +3,11 @@ numpy
 pandas
 seaborn
 matplotlib
-statsmodel
 scikit-learn
 scipy
+gunicorn
+Jinja2
+Werkzeug
+statsmodels
+ydata_profiling
 
